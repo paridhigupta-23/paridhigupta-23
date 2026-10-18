@@ -115,15 +115,19 @@ A selection of projects exploring healthcare technology, IoT systems, heritage d
 
 ---
 
+
 ## 05 / DEVELOPMENT ACTIVITY
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paridhigupta-23&bg_color=F7F0E8&color=521C2B&line=783D4B&point=521C2B&area=true&area_color=D9B7BE&hide_border=true&custom_title=Contribution%20History" width="100%" alt="GitHub contribution activity graph"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=paridhigupta-23&bg_color=F7F0E8&color=521C2B&line=783D4B&point=521C2B&area=true&hide_border=true&custom_title=Development%20Activity"
+    width="100%"
+    alt="GitHub Development Activity Graph"
+  />
 </div>
 
 ---
+
 
 ## 06 / CONTRIBUTION HISTORY
 
