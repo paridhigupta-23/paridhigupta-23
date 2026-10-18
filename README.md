@@ -1,85 +1,99 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2" width="100%" alt="" />
 
-  <h1>PARIDHI GUPTA</h1>
-  <p>Electronics & Communication Engineering · AI/ML · Software Development</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=521C2B&height=8" width="100%" alt="" />
 
-  <a href="https://github.com/paridhigupta-23">GitHub</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">LinkedIn</a>
+<br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2" width="100%" alt="" />
+# PARIDHI GUPTA
+
+**Electronics & Communication Engineering | AI/ML | Software Development**
+
+Undergraduate engineer exploring the intersection of intelligent systems, software, and electronics.
+
+[GitHub](https://github.com/paridhigupta-23) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/paridhi-gupta-2323230u5/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=521C2B&height=2" width="100%" alt="" />
+
 </div>
 
-## PROFILE
+## ABOUT
 
-Undergraduate engineering student focused on software development, artificial intelligence, and the intersection of electronics and computing.
+I am an undergraduate engineering student interested in software development, artificial intelligence, and hardware-software integration.
 
-Interested in developing practical applications, exploring intelligent systems, and building a strong foundation in software engineering through hands-on projects.
+My approach is centred on learning through implementation: developing applications, experimenting with emerging technologies, and translating ideas into practical prototypes.
 
-Currently developing skills across programming, full-stack development, and hardware-software integration.
+Currently strengthening my foundation in programming, full-stack development, and intelligent systems.
 
-## TECHNICAL INTERESTS
+## TECHNICAL SKILLS
 
 **Programming**  
 C · C++ · Java · Python · JavaScript
 
-**Web Development**  
+**Development**  
 HTML · CSS · React · Vite · Node.js · Express
 
 **Tools & Data**  
 Git · GitHub · VS Code · PostgreSQL · MySQL · Arduino
 
-## SELECTED PROJECTS
+## SELECTED WORK
 
 ### IASYN AI
-**AI-assisted knee rehabilitation and movement monitoring**
+*Knee rehabilitation and movement monitoring*
 
 A healthcare technology project concept focused on guided knee-extension exercises, webcam-based movement assessment, patient reports, and clinician-facing progress review.
 
 ### SensorGrid-3
-**IoT monitoring and backend development**
+*IoT monitoring and backend development*
 
-An IoT project using Express and PostgreSQL, with API endpoints for device information and sensor readings.
+An IoT project involving an Express backend, PostgreSQL, and API endpoints for device information and sensor readings.
 
 ### Sutra-Geo
-**Geofenced heritage exploration**
+*Geofenced heritage exploration*
 
-A heritage exploration concept combining location-aware experiences, cultural discovery, interactive quests, and local community participation.
+A concept for location-aware heritage discovery, interactive cultural experiences, and local community participation.
 
 ### WanderWorld
-**Travel-oriented web development**
+*Travel-oriented web development*
 
-A web project focused on a travel discovery experience.
+A web project exploring a travel discovery experience.
 
 ### Kivi Hospital
-**Healthcare web development**
+*Healthcare web development*
 
-A healthcare-themed web project exploring a digital hospital experience.
+A healthcare-themed project exploring a digital hospital experience.
 
 ### Battle Game Arena
-**Interactive web application**
+*Interactive web application*
 
-A browser-based gaming project developed with React and Vite.
+A gaming-oriented application developed using React and Vite.
 
-[View all repositories](https://github.com/paridhigupta-23?tab=repositories)
+[Explore all repositories](https://github.com/paridhigupta-23?tab=repositories)
 
-## GITHUB ACTIVITY
+## GITHUB STATISTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paridhigupta-23&show_icons=true&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555&icon_color=9b7186&include_all_commits=true" height="160" alt="GitHub activity statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhigupta-23&layout=compact&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555" height="160" alt="Most used languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=paridhigupta-23&show_icons=true&hide_border=true&bg_color=F7F0E8&title_color=521C2B&text_color=521C2B&icon_color=521C2B&ring_color=521C2B" width="49%" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhigupta-23&layout=compact&hide_border=true&bg_color=F7F0E8&title_color=521C2B&text_color=521C2B" width="49%" alt="Most used languages" />
+
 </div>
 
-## CONTRIBUTIONS
+## CONTRIBUTION HISTORY
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paridhigupta-23/paridhigupta-23/output/snake.svg" width="100%" alt="GitHub contribution history" />
+
+<img src="https://raw.githubusercontent.com/paridhigupta-23/paridhigupta-23/output/snake.svg" width="100%" alt="Contribution history" />
+
 </div>
 
----
-
 <div align="center">
-  <sub>Paridhi Gupta · Engineering student and developer</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=521C2B&height=3" width="100%" alt="" />
+
+<sub>PARIDHI GUPTA · ENGINEERING · SOFTWARE · AI</sub>
+
 </div>
