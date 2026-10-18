@@ -116,15 +116,35 @@ A selection of projects exploring healthcare technology, IoT systems, heritage d
 ---
 
 
-## 05 / DEVELOPMENT ACTIVITY
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=paridhigupta-23&bg_color=F7F0E8&color=521C2B&line=783D4B&point=521C2B&area=true&hide_border=true&custom_title=Development%20Activity"
-    width="100%"
-    alt="GitHub Development Activity Graph"
-  />
-</div>
+## 05 / DEVELOPMENT FOCUS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 — Currently Building</strong>
+      <br><br>
+      React applications, full-stack projects, and practical AI-powered solutions.
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 — Technical Growth</strong>
+      <br><br>
+      Strengthening Java, Python, problem-solving, and software development fundamentals.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 — Exploring</strong>
+      <br><br>
+      Machine learning, computer vision, embedded systems, and intelligent healthcare technology.
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 — My Approach</strong>
+      <br><br>
+      Learn by building. Improve through experimentation. Turn ideas into working projects.
+    </td>
+  </tr>
+</table>
 
 ---
 
