@@ -1,54 +1,43 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PARIDHI%20GUPTA&fontSize=48&fontColor=F8F1E8&fontAlignY=38&desc=ELECTRONICS%20%7C%20SOFTWARE%20%7C%20AI%2FML&descAlignY=58&descSize=15&color=0:301522,45:71354A,100:B47A83" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:21151D,50:482637,100:713D50&height=210&section=header&text=PARIDHI%20GUPTA&fontSize=52&fontColor=F2E8E2&fontAlignY=43&desc=ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING%20%7C%20DEVELOPER&descSize=12&descAlignY=68&descColor=D9B9B5" />
 
 <br/>
 
-### Engineering ideas into practical solutions.
+# Engineering ideas into practical solutions.
 
-B.Tech ECE Undergraduate | Developer | AI/ML Explorer
+**B.Tech ECE Undergraduate · Software Developer · AI/ML Explorer**
 
-<br/>
-
-<a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
-  <img src="https://img.shields.io/badge/LINKEDIN-71354A?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/paridhigupta-23">
-  <img src="https://img.shields.io/badge/GITHUB-3B1728?style=flat-square&logo=github&logoColor=white" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/paridhi-gupta-2323230u5/) &nbsp; / &nbsp; [GitHub](https://github.com/paridhigupta-23) &nbsp; / &nbsp; [Repositories](https://github.com/paridhigupta-23?tab=repositories)
 
 </div>
 
 ---
 
-## 01 / PROFILE
+## ABOUT
 
-I'm a **B.Tech Electronics and Communication Engineering student** interested in building technology that connects software, artificial intelligence, and real-world applications.
+I'm an Electronics and Communication Engineering undergraduate interested in the intersection of software development, artificial intelligence, and real-world engineering.
 
-My interests extend beyond traditional electronics into software development, machine learning, backend systems, and hardware-software integration.
+I enjoy understanding how technology works, experimenting with new ideas, and turning what I learn into practical applications.
 
-I enjoy exploring new technologies, working on practical projects, and continuously strengthening my technical foundation.
+My approach is simple: build a strong foundation, work on meaningful projects, and keep improving with every experiment.
 
-**Currently focused on:**
-- Developing programming and problem-solving skills.
-- Building practical software and AI-based projects.
-- Exploring the intersection of electronics and intelligent systems.
-- Learning through experimentation and project development.
+Currently exploring software engineering, full-stack development, machine learning, and hardware-software integration.
 
 ---
 
-## 02 / TECHNOLOGIES & TOOLS
+## TECHNOLOGIES & TOOLS
 
-**Programming Languages**
+**Languages**
 
 C · C++ · Java · Python · JavaScript
 
-**Frontend Development**
+**Frontend**
 
 HTML · CSS · React · Vite
 
-**Backend Development**
+**Backend**
 
 Node.js · Express.js · REST APIs
 
@@ -56,119 +45,124 @@ Node.js · Express.js · REST APIs
 
 PostgreSQL · MySQL
 
-**Tools & Platforms**
+**Development Tools**
 
 Git · GitHub · VS Code · Arduino
 
 ---
 
-## 03 / FEATURED PROJECTS
+## SELECTED WORK
 
-A selection of projects exploring software development, artificial intelligence, and practical problem-solving.
+A collection of projects exploring software, intelligent systems, and practical engineering.
 
-### 01. IASYN AI
+### 01 — IASYN AI
+
 **AI-Assisted Knee Rehabilitation Monitoring System**
 
 A healthcare-focused project combining computer vision, machine learning, and hardware-based movement monitoring to support knee rehabilitation and exercise tracking.
 
-`Artificial Intelligence` · `Computer Vision` · `ESP32` · `Machine Learning`
+`Computer Vision` / `Machine Learning` / `ESP32` / `Healthcare Technology`
+
+Repository: [IASYN AI](https://github.com/vanshikaa0414/IASYN_AI)
 
 ---
 
-### 02. SensorGrid-3
-**Device Monitoring and Data Management**
+### 02 — SensorGrid-3
 
-A backend application designed to manage device information and sensor readings through REST APIs, with PostgreSQL for data storage.
+**Device Monitoring & Data Management**
 
-`Node.js` · `Express.js` · `PostgreSQL` · `REST API`
+A backend application designed to manage device information and sensor readings through REST APIs, with PostgreSQL for structured data storage.
+
+`Node.js` / `Express.js` / `PostgreSQL` / `REST APIs`
 
 ---
 
-### 03. Sutra-Geo
+### 03 — Sutra-Geo
+
 **Geolocation-Based Heritage Exploration**
 
 A project exploring location-aware experiences and geolocation technology to make heritage discovery more interactive.
 
-`Web Development` · `Geolocation`
+`Web Development` / `Geolocation`
 
 ---
 
-### 04. Battle Game Arena
+### 04 — Battle Game Arena
+
 **Interactive Gaming Experience**
 
 A web-based gaming project focused on interactive gameplay, frontend development, and user experience.
 
-`React` · `JavaScript` · `Vite`
+`React` / `JavaScript` / `Vite`
 
 ---
 
-### 05. WanderWorld
+### 05 — WanderWorld
+
 **Travel Exploration Platform**
 
 A travel-themed website designed to present destinations through an engaging and user-friendly interface.
 
-`HTML` · `CSS` · `JavaScript`
+`HTML` / `CSS` / `JavaScript`
 
 ---
 
-### 06. Kivi Hospital
+### 06 — Kivi Hospital
+
 **Healthcare Web Application**
 
-A healthcare-themed web project exploring structured interfaces and accessible digital experiences for healthcare services.
+A healthcare-themed web project exploring structured interfaces and accessible digital experiences.
 
-`Frontend Development` · `Web Design`
+`Frontend Development` / `Web Design`
 
 ---
+
+## CURRENT DIRECTION
+
+| Focus | What I'm working towards |
+|:---|:---|
+| Software Engineering | Strong programming fundamentals and problem-solving |
+| Full-Stack Development | Building functional web applications and backend systems |
+| Artificial Intelligence | Exploring machine learning and intelligent applications |
+| Cybersecurity | Understanding security fundamentals and practical concepts |
+| Engineering | Connecting electronics with software-based solutions |
+
+---
+
+## GITHUB ACTIVITY
 
 <div align="center">
 
-<a href="https://github.com/paridhigupta-23?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-71354A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 04 / CURRENT FOCUS
-
-| Area | Focus |
-|---|---|
-| **Building** | Practical projects in web development, backend systems, and AI-powered applications |
-| **Strengthening** | Programming fundamentals, data structures, algorithms, and problem-solving |
-| **Exploring** | Machine learning, cybersecurity, and hardware-software integration |
-| **Approach** | Learn the fundamentals, build real projects, and continuously improve |
-
----
-
-## 05 / CONTRIBUTION HISTORY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/paridhigupta-23/paridhigupta-23/output/snake.svg" alt="Contribution Snake Animation" width="100%" />
-
-</div>
-
----
-
-## 06 / CONNECT
-
-Interested in learning, collaborating, and building meaningful projects with technology.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-71354A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/paridhigupta-23">
-  <img src="https://img.shields.io/badge/GitHub-Follow-3B1728?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=paridhigupta-23&show_icons=false&hide_border=true&bg_color=17151A&title_color=C18E91&text_color=E9DFDA&icon_color=C18E91&include_all_commits=true" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:301522,45:71354A,100:B47A83" width="100%" />
+<img width="90%" src="https://streak-stats.demolab.com?user=paridhigupta-23&hide_border=true&background=17151A&ring=C18E91&fire=B47A83&currStreakLabel=E9DFDA&sideLabels=E9DFDA&currStreakNum=F2E8E2&sideNums=F2E8E2&dates=A99A9A" />
 
-<sub>Built with curiosity. Driven by learning. Always evolving.</sub>
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=paridhigupta-23&bg_color=17151A&color=E9DFDA&line=B47A83&point=F2E8E2&area=true&area_color=482637&hide_border=true" />
+
+</div>
+
+---
+
+## BEYOND THE CODE
+
+I believe meaningful engineering comes from curiosity, consistency, and the willingness to explore beyond what is already known.
+
+I'm always open to learning opportunities, collaborative projects, and conversations with people who enjoy building things.
+
+For collaborations or professional connections:
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/paridhi-gupta-2323230u5/)**
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:713D50,50:482637,100:21151D&height=100&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20EXPERIMENT%20%E2%80%A2%20SHIP&fontSize=16&fontColor=F2E8E2&fontAlignY=55" />
+
+<sub>Designed with intention. Built through curiosity.</sub>
 
 </div>
