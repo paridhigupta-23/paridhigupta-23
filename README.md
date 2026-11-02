@@ -1,225 +1,174 @@
 
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PARIDHI%20GUPTA&fontSize=48&fontColor=F8F1E8&fontAlignY=38&desc=ECE%20UNDERGRADUATE%20%7C%20SOFTWARE%20%7C%20AI%2FML&descAlignY=58&descSize=15&color=0:3B1728,45:71354A,100:B47A83" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PARIDHI%20GUPTA&fontSize=48&fontColor=F8F1E8&fontAlignY=38&desc=ELECTRONICS%20%7C%20SOFTWARE%20%7C%20AI%2FML&descAlignY=58&descSize=15&color=0:301522,45:71354A,100:B47A83" width="100%" />
 
 <br/>
 
 ### Engineering ideas into practical solutions.
 
-<p>
-  <a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-71354A?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/paridhigupta-23">
-    <img src="https://img.shields.io/badge/GitHub-Explore-3B1728?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+B.Tech ECE Undergraduate | Developer | AI/ML Explorer
+
+<br/>
+
+<a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
+  <img src="https://img.shields.io/badge/LINKEDIN-71354A?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/paridhigupta-23">
+  <img src="https://img.shields.io/badge/GITHUB-3B1728?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+## 01 / PROFILE
 
-## 01 / ABOUT ME
+I'm a **B.Tech Electronics and Communication Engineering student** interested in building technology that connects software, artificial intelligence, and real-world applications.
 
-I'm a **B.Tech Electronics and Communication Engineering student** exploring the intersection of software, artificial intelligence, and hardware.
+My interests extend beyond traditional electronics into software development, machine learning, backend systems, and hardware-software integration.
 
-I enjoy building projects that combine problem-solving with practical applications — from web development and backend systems to AI-powered solutions and hardware integration.
+I enjoy exploring new technologies, working on practical projects, and continuously strengthening my technical foundation.
 
-- Currently pursuing **B.Tech, 2nd Year**
-- Interested in **Software Development, AI/ML, and Full Stack Development**
-- Exploring the connection between **electronics and intelligent systems**
-- Learning by building, experimenting, and improving one project at a time
+**Currently focused on:**
+- Developing programming and problem-solving skills.
+- Building practical software and AI-based projects.
+- Exploring the intersection of electronics and intelligent systems.
+- Learning through experimentation and project development.
 
 ---
 
-## 02 / TECHNOLOGY STACK
-
-The tools and technologies I'm learning and working with.
+## 02 / TECHNOLOGIES & TOOLS
 
 **Programming Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=light" />
-</p>
+C · C++ · Java · Python · JavaScript
 
 **Frontend Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=light" />
-</p>
+HTML · CSS · React · Vite
 
-**Backend and Databases**
+**Backend Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=light" />
-</p>
+Node.js · Express.js · REST APIs
 
-**Tools and Platforms**
+**Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=light" />
-</p>
+PostgreSQL · MySQL
+
+**Tools & Platforms**
+
+Git · GitHub · VS Code · Arduino
 
 ---
 
 ## 03 / FEATURED PROJECTS
 
-A selection of projects where I've explored different areas of technology.
+A selection of projects exploring software development, artificial intelligence, and practical problem-solving.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### IASYN AI
-
+### 01. IASYN AI
 **AI-Assisted Knee Rehabilitation Monitoring System**
 
-A healthcare-focused project combining computer vision, machine learning, and hardware-based movement monitoring to support knee rehabilitation.
+A healthcare-focused project combining computer vision, machine learning, and hardware-based movement monitoring to support knee rehabilitation and exercise tracking.
 
-`AI/ML` `Computer Vision` `ESP32` `Healthcare`
+`Artificial Intelligence` · `Computer Vision` · `ESP32` · `Machine Learning`
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-### SensorGrid-3
-
+### 02. SensorGrid-3
 **Device Monitoring and Data Management**
 
-A backend-focused project designed to manage device information and sensor readings through REST APIs and PostgreSQL.
+A backend application designed to manage device information and sensor readings through REST APIs, with PostgreSQL for data storage.
 
-`Node.js` `Express` `PostgreSQL` `REST API`
+`Node.js` · `Express.js` · `PostgreSQL` · `REST API`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
-### Sutra-Geo
-
+### 03. Sutra-Geo
 **Geolocation-Based Heritage Exploration**
 
-A project exploring location-aware experiences and the use of geolocation technology to make heritage discovery more interactive.
+A project exploring location-aware experiences and geolocation technology to make heritage discovery more interactive.
 
-`Web Development` `Geolocation`
+`Web Development` · `Geolocation`
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-### Battle Game Arena
-
+### 04. Battle Game Arena
 **Interactive Gaming Experience**
 
-A web-based gaming project focused on interactive components, user experience, and frontend development.
+A web-based gaming project focused on interactive gameplay, frontend development, and user experience.
 
-`React` `JavaScript` `Vite`
+`React` · `JavaScript` · `Vite`
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+---
 
-### WanderWorld
-
+### 05. WanderWorld
 **Travel Exploration Platform**
 
-A travel-themed web project focused on presenting destinations through an engaging and user-friendly interface.
+A travel-themed website designed to present destinations through an engaging and user-friendly interface.
 
-`HTML` `CSS` `JavaScript`
+`HTML` · `CSS` · `JavaScript`
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-### Kivi Hospital
-
+### 06. Kivi Hospital
 **Healthcare Web Application**
 
-A healthcare-themed web project exploring structured interfaces and digital experiences for healthcare services.
+A healthcare-themed web project exploring structured interfaces and accessible digital experiences for healthcare services.
 
-`Web Development` `Frontend`
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/paridhigupta-23?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-71354A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+`Frontend Development` · `Web Design`
 
 ---
-
-## 04 / CURRENT FOCUS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Building**
-
-Developing practical projects in web development, backend systems, and AI-powered applications.
-
-    </td>
-    <td width="50%" valign="top">
-
-**Strengthening**
-
-Improving programming fundamentals, data structures, algorithms, and problem-solving.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**Exploring**
-
-Machine learning, cybersecurity, hardware-software integration, and intelligent systems.
-
-    </td>
-    <td width="50%" valign="top">
-
-**Approach**
-
-Learn the fundamentals. Build something real. Understand what can be improved.
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 05 / GITHUB CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/paridhigupta-23/paridhigupta-23/output/snake.svg" alt="GitHub contribution snake animation" width="100%" />
+<a href="https://github.com/paridhigupta-23?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-71354A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 06 / LET'S CONNECT
+## 04 / CURRENT FOCUS
 
-I'm always open to learning opportunities, collaborative projects, and connecting with people who enjoy building things with technology.
+| Area | Focus |
+|---|---|
+| **Building** | Practical projects in web development, backend systems, and AI-powered applications |
+| **Strengthening** | Programming fundamentals, data structures, algorithms, and problem-solving |
+| **Exploring** | Machine learning, cybersecurity, and hardware-software integration |
+| **Approach** | Learn the fundamentals, build real projects, and continuously improve |
+
+---
+
+## 05 / CONTRIBUTION HISTORY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/paridhigupta-23/paridhigupta-23/output/snake.svg" alt="Contribution Snake Animation" width="100%" />
+
+</div>
+
+---
+
+## 06 / CONNECT
+
+Interested in learning, collaborating, and building meaningful projects with technology.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
-  <img src="https://img.shields.io/badge/LinkedIn-71354A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-71354A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/paridhigupta-23">
-  <img src="https://img.shields.io/badge/GitHub-3B1728?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-3B1728?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:3B1728,50:71354A,100:B47A83" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:301522,45:71354A,100:B47A83" width="100%" />
 
-<sub>Designed with intention. Built with curiosity. Always learning.</sub>
+<sub>Built with curiosity. Driven by learning. Always evolving.</sub>
 
 </div>
