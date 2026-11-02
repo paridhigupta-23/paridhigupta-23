@@ -1,168 +1,225 @@
 
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:21151D,50:482637,100:713D50&height=210&section=header&text=PARIDHI%20GUPTA&fontSize=52&fontColor=F2E8E2&fontAlignY=43&desc=ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING%20%7C%20DEVELOPER&descSize=12&descAlignY=68&descColor=D9B9B5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PARIDHI%20GUPTA&fontSize=48&fontColor=F8F1E8&fontAlignY=38&desc=ECE%20UNDERGRADUATE%20%7C%20SOFTWARE%20%7C%20AI%2FML&descAlignY=58&descSize=15&color=0:3B1728,45:71354A,100:B47A83" width="100%" />
 
 <br/>
 
-# Engineering ideas into practical solutions.
+### Engineering ideas into practical solutions.
 
-**B.Tech ECE Undergraduate · Software Developer · AI/ML Explorer**
-
-[LinkedIn](https://www.linkedin.com/in/paridhi-gupta-2323230u5/) &nbsp; / &nbsp; [GitHub](https://github.com/paridhigupta-23) &nbsp; / &nbsp; [Repositories](https://github.com/paridhigupta-23?tab=repositories)
+<p>
+  <a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-71354A?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/paridhigupta-23">
+    <img src="https://img.shields.io/badge/GitHub-Explore-3B1728?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## ABOUT
+<!-- ===================== ABOUT ===================== -->
 
-I'm an Electronics and Communication Engineering undergraduate interested in the intersection of software development, artificial intelligence, and real-world engineering.
+## 01 / ABOUT ME
 
-I enjoy understanding how technology works, experimenting with new ideas, and turning what I learn into practical applications.
+I'm a **B.Tech Electronics and Communication Engineering student** exploring the intersection of software, artificial intelligence, and hardware.
 
-My approach is simple: build a strong foundation, work on meaningful projects, and keep improving with every experiment.
+I enjoy building projects that combine problem-solving with practical applications — from web development and backend systems to AI-powered solutions and hardware integration.
 
-Currently exploring software engineering, full-stack development, machine learning, and hardware-software integration.
-
----
-
-## TECHNOLOGIES & TOOLS
-
-**Languages**
-
-C · C++ · Java · Python · JavaScript
-
-**Frontend**
-
-HTML · CSS · React · Vite
-
-**Backend**
-
-Node.js · Express.js · REST APIs
-
-**Databases**
-
-PostgreSQL · MySQL
-
-**Development Tools**
-
-Git · GitHub · VS Code · Arduino
+- Currently pursuing **B.Tech, 2nd Year**
+- Interested in **Software Development, AI/ML, and Full Stack Development**
+- Exploring the connection between **electronics and intelligent systems**
+- Learning by building, experimenting, and improving one project at a time
 
 ---
 
-## SELECTED WORK
+## 02 / TECHNOLOGY STACK
 
-A collection of projects exploring software, intelligent systems, and practical engineering.
+The tools and technologies I'm learning and working with.
 
-### 01 — IASYN AI
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=light" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=light" />
+</p>
+
+**Backend and Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=light" />
+</p>
+
+**Tools and Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=light" />
+</p>
+
+---
+
+## 03 / FEATURED PROJECTS
+
+A selection of projects where I've explored different areas of technology.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### IASYN AI
 
 **AI-Assisted Knee Rehabilitation Monitoring System**
 
-A healthcare-focused project combining computer vision, machine learning, and hardware-based movement monitoring to support knee rehabilitation and exercise tracking.
+A healthcare-focused project combining computer vision, machine learning, and hardware-based movement monitoring to support knee rehabilitation.
 
-`Computer Vision` / `Machine Learning` / `ESP32` / `Healthcare Technology`
+`AI/ML` `Computer Vision` `ESP32` `Healthcare`
 
-Repository: [IASYN AI](https://github.com/vanshikaa0414/IASYN_AI)
+    </td>
+    <td width="50%" valign="top">
 
----
+### SensorGrid-3
 
-### 02 — SensorGrid-3
+**Device Monitoring and Data Management**
 
-**Device Monitoring & Data Management**
+A backend-focused project designed to manage device information and sensor readings through REST APIs and PostgreSQL.
 
-A backend application designed to manage device information and sensor readings through REST APIs, with PostgreSQL for structured data storage.
+`Node.js` `Express` `PostgreSQL` `REST API`
 
-`Node.js` / `Express.js` / `PostgreSQL` / `REST APIs`
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
----
-
-### 03 — Sutra-Geo
+### Sutra-Geo
 
 **Geolocation-Based Heritage Exploration**
 
-A project exploring location-aware experiences and geolocation technology to make heritage discovery more interactive.
+A project exploring location-aware experiences and the use of geolocation technology to make heritage discovery more interactive.
 
-`Web Development` / `Geolocation`
+`Web Development` `Geolocation`
 
----
+    </td>
+    <td width="50%" valign="top">
 
-### 04 — Battle Game Arena
+### Battle Game Arena
 
 **Interactive Gaming Experience**
 
-A web-based gaming project focused on interactive gameplay, frontend development, and user experience.
+A web-based gaming project focused on interactive components, user experience, and frontend development.
 
-`React` / `JavaScript` / `Vite`
+`React` `JavaScript` `Vite`
 
----
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### 05 — WanderWorld
+### WanderWorld
 
 **Travel Exploration Platform**
 
-A travel-themed website designed to present destinations through an engaging and user-friendly interface.
+A travel-themed web project focused on presenting destinations through an engaging and user-friendly interface.
 
-`HTML` / `CSS` / `JavaScript`
+`HTML` `CSS` `JavaScript`
 
----
+    </td>
+    <td width="50%" valign="top">
 
-### 06 — Kivi Hospital
+### Kivi Hospital
 
 **Healthcare Web Application**
 
-A healthcare-themed web project exploring structured interfaces and accessible digital experiences.
+A healthcare-themed web project exploring structured interfaces and digital experiences for healthcare services.
 
-`Frontend Development` / `Web Design`
+`Web Development` `Frontend`
 
----
+    </td>
+  </tr>
+</table>
 
-## CURRENT DIRECTION
-
-| Focus | What I'm working towards |
-|:---|:---|
-| Software Engineering | Strong programming fundamentals and problem-solving |
-| Full-Stack Development | Building functional web applications and backend systems |
-| Artificial Intelligence | Exploring machine learning and intelligent applications |
-| Cybersecurity | Understanding security fundamentals and practical concepts |
-| Engineering | Connecting electronics with software-based solutions |
+<p align="center">
+  <a href="https://github.com/paridhigupta-23?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-71354A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## GITHUB ACTIVITY
+## 04 / CURRENT FOCUS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**Building**
+
+Developing practical projects in web development, backend systems, and AI-powered applications.
+
+    </td>
+    <td width="50%" valign="top">
+
+**Strengthening**
+
+Improving programming fundamentals, data structures, algorithms, and problem-solving.
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**Exploring**
+
+Machine learning, cybersecurity, hardware-software integration, and intelligent systems.
+
+    </td>
+    <td width="50%" valign="top">
+
+**Approach**
+
+Learn the fundamentals. Build something real. Understand what can be improved.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 05 / GITHUB CONTRIBUTIONS
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=paridhigupta-23&show_icons=false&hide_border=true&bg_color=17151A&title_color=C18E91&text_color=E9DFDA&icon_color=C18E91&include_all_commits=true" />
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=paridhigupta-23&hide_border=true&background=17151A&ring=C18E91&fire=B47A83&currStreakLabel=E9DFDA&sideLabels=E9DFDA&currStreakNum=F2E8E2&sideNums=F2E8E2&dates=A99A9A" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=paridhigupta-23&bg_color=17151A&color=E9DFDA&line=B47A83&point=F2E8E2&area=true&area_color=482637&hide_border=true" />
+<img src="https://raw.githubusercontent.com/paridhigupta-23/paridhigupta-23/output/snake.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
 
 ---
 
-## BEYOND THE CODE
+## 06 / LET'S CONNECT
 
-I believe meaningful engineering comes from curiosity, consistency, and the willingness to explore beyond what is already known.
-
-I'm always open to learning opportunities, collaborative projects, and conversations with people who enjoy building things.
-
-For collaborations or professional connections:
-
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/paridhi-gupta-2323230u5/)**
-
----
+I'm always open to learning opportunities, collaborative projects, and connecting with people who enjoy building things with technology.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:713D50,50:482637,100:21151D&height=100&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20EXPERIMENT%20%E2%80%A2%20SHIP&fontSize=16&fontColor=F2E8E2&fontAlignY=55" />
+<a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
+  <img src="https://img.shields.io/badge/LinkedIn-71354A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/paridhigupta-23">
+  <img src="https://img.shields.io/badge/GitHub-3B1728?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<sub>Designed with intention. Built through curiosity.</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:3B1728,50:71354A,100:B47A83" width="100%" />
+
+<sub>Designed with intention. Built with curiosity. Always learning.</sub>
 
 </div>
