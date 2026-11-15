@@ -1,225 +1,109 @@
-
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PARIDHI%20GUPTA&fontSize=48&fontColor=F8F1E8&fontAlignY=38&desc=ECE%20UNDERGRADUATE%20%7C%20SOFTWARE%20%7C%20AI%2FML&descAlignY=58&descSize=15&color=0:3B1728,45:71354A,100:B47A83" width="100%" />
+# PARIDHI GUPTA
 
-<br/>
+**Electronics & Communication Engineering · Software Development · AI/ML**
 
-### Engineering ideas into practical solutions.
+Building thoughtful software at the intersection of technology and real-world problems.
 
-<p>
-  <a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-71354A?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/paridhigupta-23">
-    <img src="https://img.shields.io/badge/GitHub-Explore-3B1728?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/paridhi-gupta-2323230u5/) · [GitHub](https://github.com/paridhigupta-23) · [Projects](https://github.com/paridhigupta-23?tab=repositories)
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+### 01 — PROFILE
 
-## 01 / ABOUT ME
+I'm a second-year B.Tech student in Electronics and Communication Engineering, interested in building software that solves practical problems.
 
-I'm a **B.Tech Electronics and Communication Engineering student** exploring the intersection of software, artificial intelligence, and hardware.
+My work spans full-stack development, backend systems, AI/ML, and hardware-software integration. I enjoy understanding how systems work end to end — from the underlying logic to the experience people interact with.
 
-I enjoy building projects that combine problem-solving with practical applications — from web development and backend systems to AI-powered solutions and hardware integration.
-
-- Currently pursuing **B.Tech, 2nd Year**
-- Interested in **Software Development, AI/ML, and Full Stack Development**
-- Exploring the connection between **electronics and intelligent systems**
-- Learning by building, experimenting, and improving one project at a time
+Currently focused on strengthening my software engineering foundations while exploring intelligent applications.
 
 ---
 
-## 02 / TECHNOLOGY STACK
+### 02 — SELECTED WORK
 
-The tools and technologies I'm learning and working with.
+**01 / BULLSEYE AI**  
+*AI-powered quantitative research & paper-trading platform*
 
-**Programming Languages**
+A full-stack platform combining historical market data, machine learning, quantitative analysis, and simulated trading. Built around a NIFTY 50 historical dataset, with investor, broker, and practice-trading experiences.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=light" />
-</p>
+`React` · `TypeScript` · `Node.js` · `SQLite` · `Machine Learning`
 
-**Frontend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=light" />
-</p>
-
-**Backend and Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=light" />
-</p>
-
-**Tools and Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=light" />
-</p>
+[View project](https://github.com/paridhigupta-23/BULLSEYE-AI) · [Live application](https://bullseye-ai-m38y.vercel.app/)
 
 ---
 
-## 03 / FEATURED PROJECTS
+**02 / IASYN AI**  
+*AI-assisted knee rehabilitation monitoring*
 
-A selection of projects where I've explored different areas of technology.
+A healthcare-focused project exploring computer vision, machine learning, and sensor-based movement monitoring to support knee rehabilitation.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+`Python` · `Computer Vision` · `PyTorch` · `ESP32`
 
-### IASYN AI
-
-**AI-Assisted Knee Rehabilitation Monitoring System**
-
-A healthcare-focused project combining computer vision, machine learning, and hardware-based movement monitoring to support knee rehabilitation.
-
-`AI/ML` `Computer Vision` `ESP32` `Healthcare`
-
-    </td>
-    <td width="50%" valign="top">
-
-### SensorGrid-3
-
-**Device Monitoring and Data Management**
-
-A backend-focused project designed to manage device information and sensor readings through REST APIs and PostgreSQL.
-
-`Node.js` `Express` `PostgreSQL` `REST API`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### Sutra-Geo
-
-**Geolocation-Based Heritage Exploration**
-
-A project exploring location-aware experiences and the use of geolocation technology to make heritage discovery more interactive.
-
-`Web Development` `Geolocation`
-
-    </td>
-    <td width="50%" valign="top">
-
-### Battle Game Arena
-
-**Interactive Gaming Experience**
-
-A web-based gaming project focused on interactive components, user experience, and frontend development.
-
-`React` `JavaScript` `Vite`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### WanderWorld
-
-**Travel Exploration Platform**
-
-A travel-themed web project focused on presenting destinations through an engaging and user-friendly interface.
-
-`HTML` `CSS` `JavaScript`
-
-    </td>
-    <td width="50%" valign="top">
-
-### Kivi Hospital
-
-**Healthcare Web Application**
-
-A healthcare-themed web project exploring structured interfaces and digital experiences for healthcare services.
-
-`Web Development` `Frontend`
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/paridhigupta-23?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-71354A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[View project](https://github.com/vanshikaa0414/IASYN_AI)
 
 ---
 
-## 04 / CURRENT FOCUS
+**03 / SENSORGRID-3**  
+*Sensor monitoring & backend services*
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+A backend project for managing device information and sensor readings through REST APIs and a PostgreSQL database.
 
-**Building**
-
-Developing practical projects in web development, backend systems, and AI-powered applications.
-
-    </td>
-    <td width="50%" valign="top">
-
-**Strengthening**
-
-Improving programming fundamentals, data structures, algorithms, and problem-solving.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**Exploring**
-
-Machine learning, cybersecurity, hardware-software integration, and intelligent systems.
-
-    </td>
-    <td width="50%" valign="top">
-
-**Approach**
-
-Learn the fundamentals. Build something real. Understand what can be improved.
-
-    </td>
-  </tr>
-</table>
+`Node.js` · `Express` · `PostgreSQL` · `REST APIs`
 
 ---
 
-## 05 / GITHUB CONTRIBUTIONS
+**04 / BATTLE GAME ARENA**  
+*Interactive algorithm visualisation*
 
-<div align="center">
+A React-based project exploring interactive experiences and visual representations of programming concepts.
 
-<img src="https://raw.githubusercontent.com/paridhigupta-23/paridhigupta-23/output/snake.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
+`React` · `JavaScript` · `Vite`
 
 ---
 
-## 06 / LET'S CONNECT
+**05 / SPIDY**  
+*Pixel-art virtual pet game*
 
-I'm always open to learning opportunities, collaborative projects, and connecting with people who enjoy building things with technology.
+A responsive browser game built with plain HTML, CSS, and JavaScript, featuring character interactions, game stats, unlockable decorations, and a mini-game.
 
-<div align="center">
+`HTML` · `CSS` · `JavaScript`
 
-<a href="https://www.linkedin.com/in/paridhi-gupta-2323230u5/">
-  <img src="https://img.shields.io/badge/LinkedIn-71354A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/paridhigupta-23">
-  <img src="https://img.shields.io/badge/GitHub-3B1728?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[View repository](https://github.com/paridhigupta-23/spidy)
 
-<br/><br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:3B1728,50:71354A,100:B47A83" width="100%" />
+### 03 — TECHNOLOGIES
 
-<sub>Designed with intention. Built with curiosity. Always learning.</sub>
+**Languages**  
+C · C++ · Java · Python · JavaScript
 
-</div>
+**Frontend**  
+HTML · CSS · React · Vite
+
+**Backend & Data**  
+Node.js · Express · PostgreSQL · MySQL · SQLite
+
+**Tools & Platforms**  
+Git · GitHub · VS Code · Arduino
+
+---
+
+### 04 — CURRENT DIRECTION
+
+- Building practical applications with modern web technologies.
+- Improving programming fundamentals and problem-solving.
+- Exploring AI/ML and intelligent systems.
+- Learning through projects that connect software with hardware.
+
+---
+
+### 05 — CONTACT
+
+Interested in meaningful projects, collaborative development, and opportunities to learn and build.
+
+**[LinkedIn](https://www.linkedin.com/in/paridhi-gupta-2323230u5/)** · **[GitHub](https://github.com/paridhigupta-23)**
+
+<sub>Hyderabad, India · Always learning, always building.</sub>
